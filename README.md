@@ -1,10 +1,10 @@
-# ð§© LeetCode Submissions
+# Ã°ÂÂ§Â© LeetCode Submissions
 
 Personal repository tracking my LeetCode solutions and progress through the [NeetCode 150](https://neetcode.io/practice) curriculum. Solutions are written in **Python**, with a focus on pattern recognition and understanding over raw problem count.
 
 ---
 
-## ð Approach
+## Ã°ÂÂÂ Approach
 
 I use **Anki spaced repetition** alongside active problem-solving to consolidate pattern knowledge. Rather than optimising for volume, the goal is:
 
@@ -14,63 +14,63 @@ I use **Anki spaced repetition** alongside active problem-solving to consolidate
 
 ---
 
-## ð Structure
+## Ã°ÂÂÂ Structure
 
 ```
 leetcode/
-âââ arrays_hashing/
-âââ two_pointers/
-âââ sliding_window/
-âââ stack/
-âââ binary_search/
-âââ linked_list/
-âââ trees/
-âââ tries/
-âââ backtracking/
-âââ heap_priority_queue/
-âââ intervals/
-âââ greedy/
-âââ graphs/
-âââ advanced_graphs/
-âââ dynamic_programming/
-â   âââ 1d/
-â   âââ 2d/
-âââ bit_manipulation/
-âââ math_geometry/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ arrays_hashing/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ two_pointers/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sliding_window/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ stack/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ binary_search/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ linked_list/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ trees/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ tries/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ backtracking/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ heap_priority_queue/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ intervals/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ greedy/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ graphs/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ advanced_graphs/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ dynamic_programming/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1d/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 2d/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ bit_manipulation/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ math_geometry/
 ```
 
 Each folder contains solutions named by LeetCode problem number and title, e.g. `0001_two_sum.py`.
 
 ---
 
-## â Progress
+## Ã¢ÂÂ Progress
 
-Tracking against the NeetCode 150. Problems marked â are solved and consolidated in Anki.
+Tracking against the NeetCode 150. Problems marked Ã¢ÂÂ are solved and consolidated in Anki.
 
 | Topic | Progress | Notes |
 |---|---|---|
-| Arrays & Hashing | ð¢ In progress | |
-| Two Pointers | ð¢ In progress | |
-| Sliding Window | ð¢ In progress | |
-| Stack | ð¢ In progress | |
-| Binary Search | ð¢ In progress | |
-| Linked List | ð¢ In progress | |
-| Trees | ð¢ In progress | |
-| Tries | ð¡ Partial | |
-| Backtracking | ð¡ Partial | |
-| Heap / Priority Queue | ð´ Not started | Next focus area |
-| Intervals | ð¡ Partial | |
-| Greedy | ð´ Not started | |
-| Graphs | ð´ Not started | |
-| Advanced Graphs | ð´ Not started | |
-| 1D Dynamic Programming | ð´ Not started | |
-| 2D Dynamic Programming | ð´ Not started | |
-| Bit Manipulation | ð¡ Partial | |
-| Math & Geometry | ð¡ Partial | |
+| Arrays & Hashing | Ã°ÂÂÂ¢ In progress | |
+| Two Pointers | Ã°ÂÂÂ¢ In progress | |
+| Sliding Window | Ã°ÂÂÂ¢ In progress | |
+| Stack | Ã°ÂÂÂ¢ In progress | |
+| Binary Search | Ã°ÂÂÂ¢ In progress | |
+| Linked List | Ã°ÂÂÂ¢ In progress | |
+| Trees | Ã°ÂÂÂ¢ In progress | |
+| Tries | Ã°ÂÂÂ¡ Partial | |
+| Backtracking | Ã°ÂÂÂ¡ Partial | |
+| Heap / Priority Queue | Ã°ÂÂÂ´ Not started | Next focus area |
+| Intervals | Ã°ÂÂÂ¡ Partial | |
+| Greedy | Ã°ÂÂÂ´ Not started | |
+| Graphs | Ã°ÂÂÂ´ Not started | |
+| Advanced Graphs | Ã°ÂÂÂ´ Not started | |
+| 1D Dynamic Programming | Ã°ÂÂÂ´ Not started | |
+| 2D Dynamic Programming | Ã°ÂÂÂ´ Not started | |
+| Bit Manipulation | Ã°ÂÂÂ¡ Partial | |
+| Math & Geometry | Ã°ÂÂÂ¡ Partial | |
 
 ---
 
-## ð§  Solution Format
+## Ã°ÂÂ§Â  Solution Format
 
 Each solution file includes:
 
@@ -96,7 +96,7 @@ class Solution:
 
 ---
 
-## ð Pattern Reference
+## Ã°ÂÂÂ Pattern Reference
 
 A quick index of core patterns and their typical signals:
 
@@ -116,7 +116,7 @@ A quick index of core patterns and their typical signals:
 
 ---
 
-## ð Stats
+## Ã°ÂÂÂ Stats
 
 - **Total solved:** ~50
 - **NeetCode 150 coverage:** ~75% of topics touched (missing heaps, graphs, DP, greedy)
@@ -136,4 +136,20 @@ A quick index of core patterns and their typical signals:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0021-merge-two-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
