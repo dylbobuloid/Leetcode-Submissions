@@ -1,10 +1,10 @@
-# Ã°ÂÂ§Â© LeetCode Submissions
+# ÃÂ°ÃÂÃÂ§ÃÂ© LeetCode Submissions
 
 Personal repository tracking my LeetCode solutions and progress through the [NeetCode 150](https://neetcode.io/practice) curriculum. Solutions are written in **Python**, with a focus on pattern recognition and understanding over raw problem count.
 
 ---
 
-## Ã°ÂÂÂ Approach
+## ÃÂ°ÃÂÃÂÃÂ Approach
 
 I use **Anki spaced repetition** alongside active problem-solving to consolidate pattern knowledge. Rather than optimising for volume, the goal is:
 
@@ -14,63 +14,63 @@ I use **Anki spaced repetition** alongside active problem-solving to consolidate
 
 ---
 
-## Ã°ÂÂÂ Structure
+## ÃÂ°ÃÂÃÂÃÂ Structure
 
 ```
 leetcode/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ arrays_hashing/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ two_pointers/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sliding_window/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ stack/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ binary_search/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ linked_list/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ trees/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ tries/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ backtracking/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ heap_priority_queue/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ intervals/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ greedy/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ graphs/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ advanced_graphs/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ dynamic_programming/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1d/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 2d/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ bit_manipulation/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ math_geometry/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ arrays_hashing/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ two_pointers/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ sliding_window/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ stack/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ binary_search/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ linked_list/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ trees/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ tries/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ backtracking/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ heap_priority_queue/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ intervals/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ greedy/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ graphs/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ advanced_graphs/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ dynamic_programming/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ 1d/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ 2d/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ bit_manipulation/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ math_geometry/
 ```
 
 Each folder contains solutions named by LeetCode problem number and title, e.g. `0001_two_sum.py`.
 
 ---
 
-## Ã¢ÂÂ Progress
+## ÃÂ¢ÃÂÃÂ Progress
 
-Tracking against the NeetCode 150. Problems marked Ã¢ÂÂ are solved and consolidated in Anki.
+Tracking against the NeetCode 150. Problems marked ÃÂ¢ÃÂÃÂ are solved and consolidated in Anki.
 
 | Topic | Progress | Notes |
 |---|---|---|
-| Arrays & Hashing | Ã°ÂÂÂ¢ In progress | |
-| Two Pointers | Ã°ÂÂÂ¢ In progress | |
-| Sliding Window | Ã°ÂÂÂ¢ In progress | |
-| Stack | Ã°ÂÂÂ¢ In progress | |
-| Binary Search | Ã°ÂÂÂ¢ In progress | |
-| Linked List | Ã°ÂÂÂ¢ In progress | |
-| Trees | Ã°ÂÂÂ¢ In progress | |
-| Tries | Ã°ÂÂÂ¡ Partial | |
-| Backtracking | Ã°ÂÂÂ¡ Partial | |
-| Heap / Priority Queue | Ã°ÂÂÂ´ Not started | Next focus area |
-| Intervals | Ã°ÂÂÂ¡ Partial | |
-| Greedy | Ã°ÂÂÂ´ Not started | |
-| Graphs | Ã°ÂÂÂ´ Not started | |
-| Advanced Graphs | Ã°ÂÂÂ´ Not started | |
-| 1D Dynamic Programming | Ã°ÂÂÂ´ Not started | |
-| 2D Dynamic Programming | Ã°ÂÂÂ´ Not started | |
-| Bit Manipulation | Ã°ÂÂÂ¡ Partial | |
-| Math & Geometry | Ã°ÂÂÂ¡ Partial | |
+| Arrays & Hashing | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Two Pointers | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Sliding Window | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Stack | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Binary Search | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Linked List | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Trees | ÃÂ°ÃÂÃÂÃÂ¢ In progress | |
+| Tries | ÃÂ°ÃÂÃÂÃÂ¡ Partial | |
+| Backtracking | ÃÂ°ÃÂÃÂÃÂ¡ Partial | |
+| Heap / Priority Queue | ÃÂ°ÃÂÃÂÃÂ´ Not started | Next focus area |
+| Intervals | ÃÂ°ÃÂÃÂÃÂ¡ Partial | |
+| Greedy | ÃÂ°ÃÂÃÂÃÂ´ Not started | |
+| Graphs | ÃÂ°ÃÂÃÂÃÂ´ Not started | |
+| Advanced Graphs | ÃÂ°ÃÂÃÂÃÂ´ Not started | |
+| 1D Dynamic Programming | ÃÂ°ÃÂÃÂÃÂ´ Not started | |
+| 2D Dynamic Programming | ÃÂ°ÃÂÃÂÃÂ´ Not started | |
+| Bit Manipulation | ÃÂ°ÃÂÃÂÃÂ¡ Partial | |
+| Math & Geometry | ÃÂ°ÃÂÃÂÃÂ¡ Partial | |
 
 ---
 
-## Ã°ÂÂ§Â  Solution Format
+## ÃÂ°ÃÂÃÂ§ÃÂ  Solution Format
 
 Each solution file includes:
 
@@ -96,7 +96,7 @@ class Solution:
 
 ---
 
-## Ã°ÂÂÂ Pattern Reference
+## ÃÂ°ÃÂÃÂÃÂ Pattern Reference
 
 A quick index of core patterns and their typical signals:
 
@@ -116,7 +116,7 @@ A quick index of core patterns and their typical signals:
 
 ---
 
-## Ã°ÂÂÂ Stats
+## ÃÂ°ÃÂÃÂÃÂ Stats
 
 - **Total solved:** ~50
 - **NeetCode 150 coverage:** ~75% of topics touched (missing heaps, graphs, DP, greedy)
@@ -139,17 +139,21 @@ A quick index of core patterns and their typical signals:
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
