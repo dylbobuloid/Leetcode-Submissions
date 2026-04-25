@@ -18,25 +18,25 @@ I use **Anki spaced repetition** alongside active problem-solving to consolidate
 
 ```
 leetcode/
-├── arrays_hashing/
-├── two_pointers/
-├── sliding_window/
-├── stack/
-├── binary_search/
-├── linked_list/
-├── trees/
-├── tries/
-├── backtracking/
-├── heap_priority_queue/
-├── intervals/
-├── greedy/
-├── graphs/
-├── advanced_graphs/
-├── dynamic_programming/
-│   ├── 1d/
-│   └── 2d/
-├── bit_manipulation/
-└── math_geometry/
+âââ arrays_hashing/
+âââ two_pointers/
+âââ sliding_window/
+âââ stack/
+âââ binary_search/
+âââ linked_list/
+âââ trees/
+âââ tries/
+âââ backtracking/
+âââ heap_priority_queue/
+âââ intervals/
+âââ greedy/
+âââ graphs/
+âââ advanced_graphs/
+âââ dynamic_programming/
+â   âââ 1d/
+â   âââ 2d/
+âââ bit_manipulation/
+âââ math_geometry/
 ```
 
 Each folder contains solutions named by LeetCode problem number and title, e.g. `0001_two_sum.py`.
@@ -125,3 +125,19 @@ A quick index of core patterns and their typical signals:
 ---
 
 *This repo is part of my broader preparation for junior/graduate software engineering roles alongside portfolio projects in Java/Spring Boot and React.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+<!---LeetCode Topics End-->
