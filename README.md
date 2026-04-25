@@ -18,25 +18,25 @@ I use **Anki spaced repetition** alongside active problem-solving to consolidate
 
 ```
 leetcode/
-âââ arrays_hashing/
-âââ two_pointers/
-âââ sliding_window/
-âââ stack/
-âââ binary_search/
-âââ linked_list/
-âââ trees/
-âââ tries/
-âââ backtracking/
-âââ heap_priority_queue/
-âââ intervals/
-âââ greedy/
-âââ graphs/
-âââ advanced_graphs/
-âââ dynamic_programming/
-â   âââ 1d/
-â   âââ 2d/
-âââ bit_manipulation/
-âââ math_geometry/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ arrays_hashing/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ two_pointers/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sliding_window/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ stack/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ binary_search/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ linked_list/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ trees/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ tries/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ backtracking/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ heap_priority_queue/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ intervals/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ greedy/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ graphs/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ advanced_graphs/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ dynamic_programming/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1d/
+Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 2d/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ bit_manipulation/
+Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ math_geometry/
 ```
 
 Each folder contains solutions named by LeetCode problem number and title, e.g. `0001_two_sum.py`.
@@ -131,6 +131,7 @@ A quick index of core patterns and their typical signals:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -140,4 +141,12 @@ A quick index of core patterns and their typical signals:
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
