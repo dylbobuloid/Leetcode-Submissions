@@ -18,25 +18,25 @@ I use **Anki spaced repetition** alongside active problem-solving to consolidate
 
 ```
 leetcode/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ arrays_hashing/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ two_pointers/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ sliding_window/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ stack/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ binary_search/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ linked_list/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ trees/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ tries/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ backtracking/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ heap_priority_queue/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ intervals/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ greedy/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ graphs/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ advanced_graphs/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ dynamic_programming/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 1d/
-Ã¢ÂÂ   Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ 2d/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ bit_manipulation/
-Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂ math_geometry/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ arrays_hashing/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ two_pointers/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ sliding_window/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ stack/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ binary_search/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ linked_list/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ trees/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ tries/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ backtracking/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ heap_priority_queue/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ intervals/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ greedy/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ graphs/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ advanced_graphs/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ dynamic_programming/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ 1d/
+ÃÂ¢ÃÂÃÂ   ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ 2d/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ bit_manipulation/
+ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ math_geometry/
 ```
 
 Each folder contains solutions named by LeetCode problem number and title, e.g. `0001_two_sum.py`.
@@ -132,6 +132,7 @@ A quick index of core patterns and their typical signals:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -149,4 +150,20 @@ A quick index of core patterns and their typical signals:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
