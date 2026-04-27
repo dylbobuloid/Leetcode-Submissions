@@ -4,7 +4,6 @@ class Solution(object):
         for k in tokens:
             if k == "*":
                 stack.append(stack.pop()*stack.pop())
-
             elif k == "+":
                 stack.append(stack.pop()+stack.pop())
             elif k == "/":
@@ -18,4 +17,5 @@ class Solution(object):
             else:
                 stack.append(int(k))
         return stack[0]
+
         
