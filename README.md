@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -25,4 +26,16 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
