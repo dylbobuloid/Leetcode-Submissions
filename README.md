@@ -25,6 +25,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
