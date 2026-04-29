@@ -25,6 +25,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
@@ -42,5 +43,6 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
