@@ -23,6 +23,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Design
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +72,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
