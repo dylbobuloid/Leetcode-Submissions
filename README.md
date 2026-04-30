@@ -33,6 +33,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
