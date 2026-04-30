@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Design
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
