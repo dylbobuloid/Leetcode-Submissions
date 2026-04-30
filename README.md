@@ -55,6 +55,7 @@
 | [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
