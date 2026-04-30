@@ -12,6 +12,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0110-balanced-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Binary Tree
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -46,10 +48,12 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Trie
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Array
 |  |
 | ------- |
