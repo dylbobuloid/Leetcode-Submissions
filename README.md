@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0046-permutations) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
