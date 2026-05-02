@@ -25,6 +25,7 @@
 | [0131-palindrome-partitioning](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0344-reverse-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@
 | ------- |
 | [0015-3sum](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0344-reverse-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/dylbobuloid/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
